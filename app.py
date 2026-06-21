@@ -17,7 +17,7 @@ st.set_page_config(
 # LOAD DATA
 # ---------------------------------
 
-df = pd.read_csv("D:/merged_data.csv")
+df = pd.read_csv("merged_data.csv")
 
 # ---------------------------------
 # SIDEBAR FILTERS
